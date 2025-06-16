@@ -256,7 +256,7 @@ Paste:
     - name: Run Docker container using Ansible module
       community.docker.docker_container:
         name: cloud-container
-        image: <DockerHub User Name>/meetv1.4
+        image: nirm473/nimutv1.4
         state: started
         recreate: true
         published_ports:

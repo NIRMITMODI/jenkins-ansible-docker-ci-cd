@@ -1,5 +1,5 @@
 FROM ubuntu:20.04
-MAINTAINER meetparmar14790@gmail.com
+MAINTAINER nirmitmodi678@gmail.com
  
 ENV DEBIAN_FRONTEND=noninteractive
  
